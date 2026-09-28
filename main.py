@@ -1,4 +1,5 @@
 print("Simple Calculator")
+print("welcome to my calculator")
 
 a = float(input("Enter first number: "))
 operator = input("Enter operator (+, -, *, /): ")
